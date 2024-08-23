@@ -5,7 +5,6 @@
 # Why was this project created?
 
 - This project was created in collaboration with Parblo, for the convenience of using tablets in games and drawing
-- This project supports !!!ONLY!!! Parblo tablets
 - This project is being updated and supported
 - I love [OpenTabletDriver](https://opentabletdriver.net/Tablets](https://github.com/OpenTabletDriver/OpenTabletDriver)) and I respect its creators, so all links to the original project will be in the first place
 - There will definitely be a version for Linux and MacOS, but alas a little later
